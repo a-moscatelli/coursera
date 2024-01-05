@@ -1,0 +1,208 @@
+[
+	
+	{
+		"label": "Bassoon1a",
+		"istm": "Bassoon",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/Bassoon.ff.A3.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/",
+		"source_owner": "",
+		"note": "A3",
+		"desc": "A3=220(224Hz) but max peak is at 447Hz",
+		"take_s": [0.2,1]
+	},
+	{
+		"label": "Bassoon2a",
+		"istm": "Bassoon",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/freesound/21001__samulis__vsco-2-ce-woodwinds-bassoon-sustain/372667__samulis__bassoon-sustain-a4-psbassoon_a3_v1_1.wav",
+		"source_url": "https://freesound.org/people/Samulis/packs/21001/",
+		"source_owner": "https://freesound.org/people/Samulis/",
+		"note": "A4",
+		"desc": "",
+		"take_s": [1,1]
+	},
+
+	{
+		"label": "Bassoon3a_x",
+		"istm": "Bassoon",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/9544__carlos_vaquero__bassoon-fortissimo-and-pianissimo-samples-g3/154276__carlos_vaquero__bassoon-g-3-tenuto-non-vibrato-fortissimo.wav",
+		"source_url": "https://freesound.org/people/Carlos_Vaquero/sounds/154276/",
+		"source_owner": "https://freesound.org/people/Carlos_Vaquero/",
+		"note": "G3",
+		"desc": "G3=196 --- see https://muted.io/note-frequencies/",
+		"take_s": [2,1]
+	},
+	{
+		"label": "Viola1a",
+		"istm": "Viola",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/Viola.arco.ff.sulC.A3.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/MISViola2012.html",
+		"source_owner": "Anton Krutz (2001)",
+		"note": "A3",
+		"desc": "A3=220(226Hz) also max peak",
+		"take_s": [0.5,1]
+	},
+	{
+		"label": "Viola2a",
+		"istm": "Viola",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/freesound/509155__michelemiko__viola_mono.wav",
+		"source_url": "https://freesound.org/people/michelemiko/sounds/509155/ ",
+		"source_owner": "https://freesound.org/people/michelemiko/",
+		"note": "G3",
+		"desc": "",
+		"take_s": [7.7,1]
+	},
+	{
+		"label": "Viola3a_x",
+		"istm": "Viola",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/1437__iktinus__viola/23112__iktinus__v_riff2-2_by_iktinus.wav",
+		"source_url": "https://freesound.org/people/iktinus/sounds/23112/",
+		"source_owner": "https://freesound.org/people/iktinus/",
+		"note": "G4",
+		"desc": "G4=398Hz also max peak - short sample - 100ms - freq above 5650Hz are missing (from the entire file).",
+		"take_s": [1.2,0.1]
+	},
+	
+	{
+		"label": "Cello1a",
+		"istm": "Cello",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/samplefocus/cello-melody-bass-low_A_minor.wav",
+		"source_url": "https://samplefocus.com/samples/cello-melody-bass-low",
+		"source_owner": "https://samplefocus.com/users/jesus-antonio-hernandez/samples",
+		"note": "A2",
+		"desc": "sampling = 48kHz",
+		"take_s": [6.3,2]
+	},
+	{
+		"label": "Cello2a",
+		"istm": "Cello",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/Cello.arco.ff.sulG.F3.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/MISCello2012.html",
+		"source_owner": "Charles Quenoil",
+		"note": "F3",
+		"desc": "inferred from the filename",
+		"take_s": [1,1]
+	},
+	{
+		"label": "Cello3a_x",
+		"istm": "Cello",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/153769__carlos_vaquero__violoncello-d-4-tenuto-vibrato.wav",
+		"source_url": "https://freesound.org/people/Carlos_Vaquero/sounds/153769/",
+		"source_owner": "https://freesound.org/people/Carlos_Vaquero/",
+		"note": "D3",
+		"desc": "",
+		"take_s": [0.7,1]
+	},
+	
+	{
+		"label": "FrHorn1a",
+		"istm": "FrHorn",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/Horn.ff.A4.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/",
+		"source_owner": "",
+		"note": "A4",
+		"desc": "inferred from the filename",
+		"take_s": [0.2,1]
+	},
+	{
+		
+		"label": "FrHorn2a",
+		"istm": "FrHorn",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/samplefocus/french-horn-a1_A.wav",
+		"source_url": "https://samplefocus.com/samples/french-horn-a1",
+		"source_owner": "https://samplefocus.com/users/mr-littletree/samples",
+		"note": "A2",
+		"desc": "",
+		"take_s": [1,2]
+	},
+	{
+		
+		"label": "FrHorn3a_x",
+		"istm": "FrHorn",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/682231__henkonen__fhorn-18.wav",
+		"source_url": "https://freesound.org/people/HenKonen/sounds/682231/",
+		"source_owner": "https://freesound.org/people/HenKonen/",
+		"note": "C4",
+		"desc": "",
+		"take_s": [0.6,1]
+	},        
+	{
+		"label": "Flute1a",
+		"istm": "Flute",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/Flute.nonvib.ff.A4.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/",
+		"source_owner": "Sonja Feig",
+		"note": "A4",
+		"desc": "inferred from the filename",
+		"take_s": [0.5,1]
+	},
+	{
+		"label": "Flute2a",
+		"istm": "Flute",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/samplefocus/flute-sample-key-g2.wav",
+		"source_url": "https://samplefocus.com/samples/flute-sample-key-g2/",
+		"source_owner": "(requires free account setup)",
+		"note": "G4",
+		"desc": "",
+		"take_s": [1,1]
+	},
+		
+	{
+		"label": "Flute3a_x",
+		"istm": "Flute",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/21023__samulis__vsco-2-ce-woodwinds-flute-non-vibrato-sustain/373287__samulis__flute-non-vibrato-sustain-e4-ldflute_susnv_e3_v3_1impexp.wav",
+		"source_url": "https://freesound.org/people/Samulis/sounds/373287/",
+		"source_owner": "https://freesound.org/people/Samulis/",
+		"note": "E4",
+		"desc": "inferred from the filename",
+		"take_s": [1,1]
+	},
+	{
+		"label": "Clarinet1a",
+		"istm": "Clarinet",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/theremin_music_uiowa_edu/aiff2wav-via-audacity/BbClarinet.ff.A4.stereo.wav",
+		"source_url": "https://theremin.music.uiowa.edu/MIS-Pitches-2012/MISBbClarinet2012.html",
+		"source_owner": "Christine Bellomy",
+		"note": "A4",
+		"desc": "inferred from the filename",
+		"take_s": [1,1]
+	},    
+	{
+		"label": "Clarinet2a",
+		"istm": "Clarinet",
+		"train": 1,
+		"wav": "M:/DATALAKE/AUDIO/samplefocus/clarinet-melody_64bpm_A#_minor.wav",
+		"source_url": "https://samplefocus.com/samples/clarinet-melody",
+		"source_owner": "https://samplefocus.com/users/mufreze",
+		"note": "F5",
+		"desc": "",
+		"take_s": [5.1,0.2]
+	},
+	{
+		"label": "Clarinet3a_x",
+		"istm": "Clarinet",
+		"train": 0,
+		"wav": "M:/DATALAKE/AUDIO/freesound/447728__cpita40__clarinet.wav",
+		"source_url": "https://freesound.org/people/cpita40/sounds/447728/",
+		"source_owner": "https://freesound.org/people/cpita40/",
+		"note": "F#3",
+		"desc": "",
+		"take_s": [3.3,1]
+	}
+	
+]
